@@ -5,6 +5,8 @@
 1. `main/master` = preview branch.
 2. `production` = production branch.
 
+Create commits in the "main/master" branch.
+
 To make a "production" deployment, you need to attempt the following in the `production` branch:
 
 ```
